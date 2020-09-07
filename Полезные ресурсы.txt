@@ -1,0 +1,29 @@
+https://stepik.org
+Ресурс онлайн обучения
+
+https://app.mindmup.com
+Инструмент декомпозиции
+
+https://sql-ex.ru/
+Тренажер по SQL
+
+https://metanit.com
+Ресурс по програмированию
+
+http://protesting.ru/testing/plan.html
+Ресурс по тестированию
+
+https://www.w3schools.com/
+Тренажеж по SQL, HTML и т.д.
+
+http://learn.onlinegdb.com/c%2B%2B_for_beginners
+Ресурс для разработки на С++
+
+https://www.onlinegdb.com/
+Онлайн компилятор
+
+http://htmlbook.ru/html/br
+Справочник по HTML
+
+https://easyeda.com/editor#id=!097555bc25c742c5a57d6af2f4401624%7C!aa4bd17a43564cd1944d0b99a7906bbf
+Онлайн СКАДа
